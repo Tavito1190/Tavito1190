@@ -1,4 +1,4 @@
-# Gustavo Alfredo Herrero
+<<<# Gustavo Alfredo Herrero
 
 ### Energy Professional | Geologist | MSc in Energy & Environmental Policy
 
@@ -22,7 +22,7 @@ My focus is on applying quantitative methods to real-world energy problems, inte
 
 ## Selected Projects
 
-### ### 1. [Neuquén Provincial Energy Balance — Master's Thesis](https://github.com/Tavito1190/neuquen-energy-balance)
+### 1. [Neuquén Provincial Energy Balance — Master's Thesis](https://github.com/Tavito1190/neuquen-energy-balance)
 
 Integrated analysis of provincial energy flows, supply, transformation and final consumption, applying energy balance methodologies and a systemic perspective.
 
